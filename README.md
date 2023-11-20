@@ -1,4 +1,5 @@
-![Alt text](Logo-1.PNG)
+![Logo](https://github.com/CelineBoutinon/bookworms/assets/143210563/7f9f7b60-1be0-4a14-85ad-ded58e218662)
+
 
 
 # ANALYSER  LES VENTES D'UNE LIBRAIRIE AVEC PYTHON
